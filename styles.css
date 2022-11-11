@@ -1,0 +1,74 @@
+body{
+  background-color: #EFF5F5;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-family: 'Outfit', sans-serif;
+}
+
+h3{
+  color: black;
+  text-align: left;
+}
+
+.card{
+  border-radius: 30px;
+  height: 610px;
+  width: 270px;
+  padding: 20px;
+  display: inline-block;
+  margin-top: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #D6E4E5;
+}
+
+h4{
+  color: black;
+  text-align: left;
+}
+
+p{
+  color: darkgrey;
+  text-align: left;
+}
+.img{
+  border-radius: 20px;
+  float: inherit;
+  width: 220px;
+  height: 300px;
+}
+
+.ju{
+  color: black;
+}
+.eth_img{
+  height: 11px;
+}
+
+.sec{
+  color: black;
+}
+
+span{
+  color: black;
+}
+
+hr{
+  border: solid 0.2px;
+  color:  black;
+}
+.attribution { font-size: 11px; text-align: center;
+}
+.avatar{
+  width: 20px;
+  height: 20px;
+  border: solid 1px;
+  border-radius: 100%;
+  border-color: black;
+  margin-right: 8px;
+  float: left;
+}
+
+.attribution a { color: hsl(228, 45%, 44%);
+}
